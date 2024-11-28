@@ -1,19 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\small\\Documents\\Pr30202\\Snake_GrafMohov\\",
+  "WorkspaceRootPath": "C:\\Users\\Mark43\\Desktop\\Pr3\\Snake_GrafMohov\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4BC1D16-9DFE-42D4-8593-7DC6B6BA06D2}|..\\SnakeWPF\\SnakeWPF.csproj|c:\\users\\small\\documents\\pr30202\\snakewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4BC1D16-9DFE-42D4-8593-7DC6B6BA06D2}|..\\SnakeWPF\\SnakeWPF.csproj|c:\\users\\small\\documents\\pr30202\\snakewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{547F08BC-63EB-4E14-B6E7-51BD2E9F4A30}|..\\Common\\Common.csproj|c:\\users\\small\\documents\\pr30202\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6CB35C7-8FF7-4DE2-8FEE-FDAF33E46D6C}|Snake_GrafMohov.csproj|c:\\users\\small\\documents\\pr30202\\snake_grafmohov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6CB35C7-8FF7-4DE2-8FEE-FDAF33E46D6C}|Snake_GrafMohov.csproj|c:\\users\\mark43\\desktop\\pr3\\snake_grafmohov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6CB35C7-8FF7-4DE2-8FEE-FDAF33E46D6C}|Snake_GrafMohov.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547F08BC-63EB-4E14-B6E7-51BD2E9F4A30}|..\\Common\\Common.csproj|c:\\users\\mark43\\desktop\\pr3\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +20,29 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Mark43\\Desktop\\Pr3\\Common\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Class1.cs",
+              "ToolTip": "C:\\Users\\Mark43\\Desktop\\Pr3\\Common\\Class1.cs",
+              "RelativeToolTip": "..\\Common\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:07:16.402Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\SnakeWPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\MainWindow.xaml",
-              "RelativeToolTip": "..\\SnakeWPF\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-28T14:23:10.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\SnakeWPF\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\SnakeWPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:23:09.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\Common\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\Common\\Class1.cs",
-              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\Common\\Class1.cs",
-              "RelativeToolTip": "..\\Common\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:21:32.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\Snake_GrafMohov\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mark43\\Desktop\\Pr3\\Snake_GrafMohov\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\Snake_GrafMohov\\Program.cs",
+              "ToolTip": "C:\\Users\\Mark43\\Desktop\\Pr3\\Snake_GrafMohov\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:21:19.537Z",
+              "WhenOpened": "2024-11-28T15:07:11.686Z",
               "EditorCaption": ""
             }
           ]
