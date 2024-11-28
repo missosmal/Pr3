@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Mark43\\Desktop\\Pr3\\Snake_GrafMohov\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{547F08BC-63EB-4E14-B6E7-51BD2E9F4A30}|..\\Common\\Common.csproj|c:\\users\\mark43\\desktop\\pr3\\common\\viewmodelusersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{547F08BC-63EB-4E14-B6E7-51BD2E9F4A30}|..\\Common\\Common.csproj|c:\\users\\mark43\\desktop\\pr3\\common\\viewmodelgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -28,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ViewModelUserSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Mark43\\Desktop\\Pr3\\Common\\ViewModelUserSettings.cs",
+              "RelativeDocumentMoniker": "..\\Common\\ViewModelUserSettings.cs",
+              "ToolTip": "C:\\Users\\Mark43\\Desktop\\Pr3\\Common\\ViewModelUserSettings.cs",
+              "RelativeToolTip": "..\\Common\\ViewModelUserSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:31:41.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ViewModelGames.cs",
               "DocumentMoniker": "C:\\Users\\Mark43\\Desktop\\Pr3\\Common\\ViewModelGames.cs",
               "RelativeDocumentMoniker": "..\\Common\\ViewModelGames.cs",
@@ -40,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Leaders.cs",
               "DocumentMoniker": "C:\\Users\\Mark43\\Desktop\\Pr3\\Common\\Leaders.cs",
               "RelativeDocumentMoniker": "..\\Common\\Leaders.cs",
@@ -48,12 +64,11 @@
               "RelativeToolTip": "..\\Common\\Leaders.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T15:23:58.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T15:23:58.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Snakes.cs",
               "DocumentMoniker": "C:\\Users\\Mark43\\Desktop\\Pr3\\Common\\Snakes.cs",
               "RelativeDocumentMoniker": "..\\Common\\Snakes.cs",
@@ -65,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mark43\\Desktop\\Pr3\\Snake_GrafMohov\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
