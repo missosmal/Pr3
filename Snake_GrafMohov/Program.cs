@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using Common;
 using Newtonsoft.Json;
 using System.Threading;
+using System.IO;
 
 namespace Snake_GrafMohov
 {
@@ -216,6 +217,14 @@ namespace Snake_GrafMohov
                 }
                 Send();
             }
+        }
+
+        public static void SaveLeaders()
+        {
+            string json = JsonConvert.SerializeObject(Leaders);
+            StreamWriter SW = new StreamWriter("./leaders.txt");
+            SW.WriteLine(json);
+            SW.Close();
         }
 
         static void Main(string[] args)
