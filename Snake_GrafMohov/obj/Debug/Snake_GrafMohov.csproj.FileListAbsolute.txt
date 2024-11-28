@@ -1,0 +1,12 @@
+C:\Users\Mark43\Desktop\Pr3\Snake_GrafMohov\bin\Debug\Snake_GrafMohov.exe.config
+C:\Users\Mark43\Desktop\Pr3\Snake_GrafMohov\bin\Debug\Snake_GrafMohov.exe
+C:\Users\Mark43\Desktop\Pr3\Snake_GrafMohov\bin\Debug\Snake_GrafMohov.pdb
+C:\Users\Mark43\Desktop\Pr3\Snake_GrafMohov\bin\Debug\Common.dll
+C:\Users\Mark43\Desktop\Pr3\Snake_GrafMohov\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mark43\Desktop\Pr3\Snake_GrafMohov\bin\Debug\Common.pdb
+C:\Users\Mark43\Desktop\Pr3\Snake_GrafMohov\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mark43\Desktop\Pr3\Snake_GrafMohov\obj\Debug\Snake_GrafMohov.csproj.AssemblyReference.cache
+C:\Users\Mark43\Desktop\Pr3\Snake_GrafMohov\obj\Debug\Snake_GrafMohov.csproj.CoreCompileInputs.cache
+C:\Users\Mark43\Desktop\Pr3\Snake_GrafMohov\obj\Debug\Snake_Gr.7098C171.Up2Date
+C:\Users\Mark43\Desktop\Pr3\Snake_GrafMohov\obj\Debug\Snake_GrafMohov.exe
+C:\Users\Mark43\Desktop\Pr3\Snake_GrafMohov\obj\Debug\Snake_GrafMohov.pdb

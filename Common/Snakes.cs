@@ -18,7 +18,6 @@ namespace Common
                 this.X = X;
                 this.Y = Y;
             }
-
             public Point() { }
         }
 
