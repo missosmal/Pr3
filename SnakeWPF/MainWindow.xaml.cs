@@ -29,6 +29,7 @@ namespace SnakeWPF
         public static MainWindow mainWindow;
         public ViewModelUserSettings ViewModelUserSettings = new ViewModelUserSettings();
         public ViewModelGames ViewModelGames = null;
+        public List<ViewModelGames> ViewModelGamesList = null;
         public static IPAddress remoteIPAddress = IPAddress.Parse("127.0.0.1");
         public static int remotePort = 5001;
         public Thread tRec;
@@ -53,20 +54,9 @@ namespace SnakeWPF
 
         public void OpenPage(Page PageOpen)
         {
-            DoubleAnimation startAnimation = new DoubleAnimation();
-            startAnimation.From = 1;
-            startAnimation.To = 0;
-            startAnimation.Duration = TimeSpan.FromSeconds(0.6);
-            startAnimation.Completed += delegate
-            {
+          
                 frame.Navigate(PageOpen);
-                DoubleAnimation endAnimation = new DoubleAnimation();
-                endAnimation.From = 0;
-                endAnimation.To = 1;
-                endAnimation.Duration = TimeSpan.FromSeconds(0.6);
-                frame.BeginAnimation(OpacityProperty, startAnimation);
-            };
-            frame.BeginAnimation(OpacityProperty, startAnimation);
+
         }
 
         public void Receiver()
@@ -88,9 +78,7 @@ namespace SnakeWPF
                             OpenPage(Game);
                         });
                     }
-
                     ViewModelGames = JsonConvert.DeserializeObject<ViewModelGames>(returnData.ToString());
-
                     if (ViewModelGames.SnakesPlayers.GameOver)
                     {
                         Dispatcher.Invoke(() =>
@@ -100,6 +88,10 @@ namespace SnakeWPF
                     }
                     else
                     {
+                        receiveBytes = receivingUdpClient.Receive(ref RemoteIpEndPoint);
+                        returnData = Encoding.UTF8.GetString(receiveBytes);
+                        ViewModelGamesList = JsonConvert.DeserializeObject<List<ViewModelGames>>(returnData.ToString());
+
                         Game.CreateUI();
                     }
                 }

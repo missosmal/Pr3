@@ -4,3 +4,9 @@ C:\Users\Mark43\Desktop\Pr3\Common\obj\Debug\Common.csproj.AssemblyReference.cac
 C:\Users\Mark43\Desktop\Pr3\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\Mark43\Desktop\Pr3\Common\obj\Debug\Common.dll
 C:\Users\Mark43\Desktop\Pr3\Common\obj\Debug\Common.pdb
+C:\Users\small\Documents\Pr30202\Common\bin\Debug\Common.dll
+C:\Users\small\Documents\Pr30202\Common\bin\Debug\Common.pdb
+C:\Users\small\Documents\Pr30202\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\small\Documents\Pr30202\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\small\Documents\Pr30202\Common\obj\Debug\Common.dll
+C:\Users\small\Documents\Pr30202\Common\obj\Debug\Common.pdb
