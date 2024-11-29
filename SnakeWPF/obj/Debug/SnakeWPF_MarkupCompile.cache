@@ -4,32 +4,17 @@
 winexe
 C#
 .cs
-<<<<<<< HEAD
 C:\Users\small\Documents\Pr30202\SnakeWPF\obj\Debug\
-=======
-C:\Users\Mark43\Desktop\Pr3\SnakeWPF\obj\Debug\
->>>>>>> server
 SnakeWPF
 none
 false
 DEBUG;TRACE
-<<<<<<< HEAD
 C:\Users\small\Documents\Pr30202\SnakeWPF\App.xaml
 1219584333
 
-6-451426193
-13-946294123
-MainWindow.xaml;
-
-True
-=======
-C:\Users\Mark43\Desktop\Pr3\SnakeWPF\App.xaml
-1219584333
-
-51579654133
+6-793535042
 13-38814620
 MainWindow.xaml;
 
-False
->>>>>>> server
+True
 
