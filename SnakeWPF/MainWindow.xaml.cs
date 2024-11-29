@@ -39,12 +39,74 @@ namespace SnakeWPF
         public MainWindow()
         {
             InitializeComponent();
+
+
         }
 
         public void StartReceiver()
         {
             tRec = new Thread(new ThreadStart(Receiver));
             tRec.Start();
+        }
+
+
+        public void OpenPage(Page PageOpen)
+        {
+            DoubleAnimation startAnimation = new DoubleAnimation();
+            startAnimation.From = 1;
+            startAnimation.To = 0;
+            startAnimation.Duration = TimeSpan.FromSeconds(0.6);
+            startAnimation.Completed += delegate
+            {
+                frame.Navigate(PageOpen);
+                DoubleAnimation endAnimation = new DoubleAnimation();
+                endAnimation.From = 0;
+                endAnimation.To = 1;
+                endAnimation.Duration = TimeSpan.FromSeconds(0.6);
+                frame.BeginAnimation(OpacityProperty, startAnimation);
+            };
+            frame.BeginAnimation(OpacityProperty, startAnimation);
+        }
+
+        public void Receiver()
+        {
+            receivingUdpClient = new UdpClient(int.Parse(ViewModelUserSettings.Port));
+            IPEndPoint RemoteIpEndPoint = null;
+
+            try
+            {
+                while (true)
+                {
+                    byte[] receiveBytes = receivingUdpClient.Receive(ref RemoteIpEndPoint);
+                    string returnData = Encoding.UTF8.GetString(receiveBytes);
+
+                    if (ViewModelGames == null)
+                    {
+                        Dispatcher.Invoke(() =>
+                        {
+                            OpenPage(Game);
+                        });
+                    }
+
+                    ViewModelGames = JsonConvert.DeserializeObject<ViewModelGames>(returnData.ToString());
+
+                    if (ViewModelGames.SnakesPlayers.GameOver)
+                    {
+                        Dispatcher.Invoke(() =>
+                        {
+                            OpenPage(new Pages.EndGame());
+                        });
+                    }
+                    else
+                    {
+                        Game.CreateUI();
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine("Возникло исключение: " + ex.ToString() + "\n" + ex.Message);
+            }
         }
     }
 }
