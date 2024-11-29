@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\small\\Documents\\Pr30202\\Snake_GrafMohov\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4BC1D16-9DFE-42D4-8593-7DC6B6BA06D2}|..\\SnakeWPF\\SnakeWPF.csproj|c:\\users\\small\\documents\\pr30202\\snakewpf\\pages\\endgame.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4BC1D16-9DFE-42D4-8593-7DC6B6BA06D2}|..\\SnakeWPF\\SnakeWPF.csproj|c:\\users\\small\\documents\\pr30202\\snakewpf\\pages\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4BC1D16-9DFE-42D4-8593-7DC6B6BA06D2}|..\\SnakeWPF\\SnakeWPF.csproj|c:\\users\\small\\documents\\pr30202\\snakewpf\\pages\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4BC1D16-9DFE-42D4-8593-7DC6B6BA06D2}|..\\SnakeWPF\\SnakeWPF.csproj|c:\\users\\small\\documents\\pr30202\\snakewpf\\pages\\endgame.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4BC1D16-9DFE-42D4-8593-7DC6B6BA06D2}|..\\SnakeWPF\\SnakeWPF.csproj|c:\\users\\small\\documents\\pr30202\\snakewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
@@ -35,7 +35,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 92,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,18 +44,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Home.xaml",
-              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\Home.xaml",
-              "RelativeDocumentMoniker": "..\\SnakeWPF\\Pages\\Home.xaml",
-              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\Home.xaml",
-              "RelativeToolTip": "..\\SnakeWPF\\Pages\\Home.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-29T14:35:50.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Game.xaml",
               "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\Game.xaml",
               "RelativeDocumentMoniker": "..\\SnakeWPF\\Pages\\Game.xaml",
@@ -90,14 +78,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EndGame.xaml",
               "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\EndGame.xaml",
               "RelativeDocumentMoniker": "..\\SnakeWPF\\Pages\\EndGame.xaml",
               "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\EndGame.xaml",
               "RelativeToolTip": "..\\SnakeWPF\\Pages\\EndGame.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-29T14:34:37.301Z"
+              "WhenOpened": "2024-11-29T14:34:37.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\Home.xaml",
+              "RelativeDocumentMoniker": "..\\SnakeWPF\\Pages\\Home.xaml",
+              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\Home.xaml",
+              "RelativeToolTip": "..\\SnakeWPF\\Pages\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T14:35:50.977Z"
             },
             {
               "$type": "Document",
