@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\small\\Documents\\Pr30202\\Snake_GrafMohov\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4BC1D16-9DFE-42D4-8593-7DC6B6BA06D2}|..\\SnakeWPF\\SnakeWPF.csproj|c:\\users\\small\\documents\\pr30202\\snakewpf\\pages\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BC1D16-9DFE-42D4-8593-7DC6B6BA06D2}|..\\SnakeWPF\\SnakeWPF.csproj|c:\\users\\small\\documents\\pr30202\\snakewpf\\pages\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4BC1D16-9DFE-42D4-8593-7DC6B6BA06D2}|..\\SnakeWPF\\SnakeWPF.csproj|c:\\users\\small\\documents\\pr30202\\snakewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -10,9 +16,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4BC1D16-9DFE-42D4-8593-7DC6B6BA06D2}|..\\SnakeWPF\\SnakeWPF.csproj|c:\\users\\small\\documents\\pr30202\\snakewpf\\pages\\endgame.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4BC1D16-9DFE-42D4-8593-7DC6B6BA06D2}|..\\SnakeWPF\\SnakeWPF.csproj|c:\\users\\small\\documents\\pr30202\\snakewpf\\pages\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4BC1D16-9DFE-42D4-8593-7DC6B6BA06D2}|..\\SnakeWPF\\SnakeWPF.csproj|c:\\users\\small\\documents\\pr30202\\snakewpf\\pages\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
@@ -35,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 92,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,7 +46,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "..\\SnakeWPF\\Pages\\Home.xaml.cs",
+              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\Home.xaml.cs",
+              "RelativeToolTip": "..\\SnakeWPF\\Pages\\Home.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA0wDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:31:51.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\SnakeWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\MainWindow.xaml",
+              "RelativeToolTip": "..\\SnakeWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T14:23:10.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EndGame.xaml",
+              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\EndGame.xaml",
+              "RelativeDocumentMoniker": "..\\SnakeWPF\\Pages\\EndGame.xaml",
+              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\EndGame.xaml",
+              "RelativeToolTip": "..\\SnakeWPF\\Pages\\EndGame.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T14:34:37.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\SnakeWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\SnakeWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:23:09.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.xaml",
+              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\Game.xaml",
+              "RelativeDocumentMoniker": "..\\SnakeWPF\\Pages\\Game.xaml",
+              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\Game.xaml",
+              "RelativeToolTip": "..\\SnakeWPF\\Pages\\Game.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T14:35:39.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\Snake_GrafMohov\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -55,53 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\SnakeWPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\MainWindow.xaml",
-              "RelativeToolTip": "..\\SnakeWPF\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-28T14:23:10.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EndGame.xaml",
-              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\EndGame.xaml",
-              "RelativeDocumentMoniker": "..\\SnakeWPF\\Pages\\EndGame.xaml",
-              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\EndGame.xaml",
-              "RelativeToolTip": "..\\SnakeWPF\\Pages\\EndGame.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-29T14:34:37.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\SnakeWPF\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\SnakeWPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAcwIEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:23:09.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Game.xaml",
-              "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\Game.xaml",
-              "RelativeDocumentMoniker": "..\\SnakeWPF\\Pages\\Game.xaml",
-              "ToolTip": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\Game.xaml",
-              "RelativeToolTip": "..\\SnakeWPF\\Pages\\Game.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-29T14:35:39.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Home.xaml",
               "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\SnakeWPF\\Pages\\Home.xaml",
               "RelativeDocumentMoniker": "..\\SnakeWPF\\Pages\\Home.xaml",
@@ -112,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ViewModelUserSettings.cs",
               "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\Common\\ViewModelUserSettings.cs",
               "RelativeDocumentMoniker": "..\\Common\\ViewModelUserSettings.cs",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\small\\Documents\\Pr30202\\Common\\Class1.cs",
               "RelativeDocumentMoniker": "..\\Common\\Class1.cs",
